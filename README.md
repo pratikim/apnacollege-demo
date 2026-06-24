@@ -1,4 +1,4 @@
 # apnacollege-demo
 Practice Git commands. 
 <br>
-Author - Pratik Patwardhan
+Author - Pratik (apna college)
